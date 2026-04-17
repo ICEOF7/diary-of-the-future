@@ -40,7 +40,7 @@
 
 ```bash
 git clone https://github.com/ICEOF7/diary-of-the-future.git
-cd diary-of-the-future
+cd diary-of-the-future/bot
 pip install -r requirements.txt
 ```
 
@@ -61,7 +61,7 @@ ADMIN_IDS=your_telegram_id
 ## ▶️ Запуск
 
 ```bash
-python app.py
+python bot/app.py
 ```
 
 ---
