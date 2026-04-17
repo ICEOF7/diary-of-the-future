@@ -39,7 +39,7 @@
 ## 🚀 Установка
 
 ```bash
-git clone https://github.com/your-username/diary-of-the-future.git
+git clone https://github.com/ICEOF7/diary-of-the-future.git
 cd diary-of-the-future
 pip install -r requirements.txt
 ```
